@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on SOOP Genetic Algorithm Implementations in Neural Networks<br>🤝 I’m looking for help with anyone who needs it.
+<br>🔭 I’m currently working on Transformer Architecture w/ many cases.<br>🤝 I’m looking for help with anyone who needs it.
 
 
 ## 🌐 Socials:
